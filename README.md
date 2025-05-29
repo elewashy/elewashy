@@ -153,7 +153,6 @@ I'm always interested in collaborating on innovative projects and discussing new
 If you find my projects helpful, consider supporting me:
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/elewashy)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/elewashy)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=elewashy&label=Profile%20views&color=0e75b6&style=flat)
 
