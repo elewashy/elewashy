@@ -23,10 +23,10 @@
 I'm a passionate Full-Stack Developer and Software Engineer with expertise in modern web technologies, mobile development, and data science. Currently pursuing my studies while building robust applications and contributing to open-source projects.
 
 ### 🔭 What I'm Working On
-- **Full-Stack Web Applications** using Next.js, Vue.js, and Laravel
-- **Mobile Development** with Flutter and React Native
+- **Full-Stack Web Applications** using TypeScript, React, Express js, Vite, Next.js, Vue.js, and Laravel
+- **Mobile Development** with Flutter, React Native and Kotlin
 - **Machine Learning Projects** utilizing Python and TensorFlow
-- **Cloud Infrastructure** deployment on AWS and Azure
+- **Cloud Infrastructure** deployment on AWS, Azure and Google Cloud
 
 ### 🌱 Currently Learning
 - Advanced DevOps practices with Docker and Kubernetes
