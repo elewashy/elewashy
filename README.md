@@ -16,6 +16,7 @@
 *"Building innovative solutions through clean code and modern technologies"*
 
 </div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%26+Software+Architect;AI%2FML+Engineer+%26+Data+Scientist;Cloud+Solutions+Expert;2%2B+Years+of+Development+Experience;Building+Scalable+%26+Innovative+Solutions)
 
 ## 👋 About Me
 
