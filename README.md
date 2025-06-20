@@ -24,7 +24,7 @@ I'm a passionate Full-Stack Developer and Software Engineer with expertise in mo
 
 ### 🔭 What I'm Working On
 - **Full-Stack Web Applications** using TypeScript, React, Express js, Vite, Next.js, Vue.js, and Laravel
-- **Mobile Development** with Flutter, React Native and Kotlin
+<!-- - **Mobile Development** with Flutter, React Native and Kotlin -->
 - **Machine Learning Projects** utilizing Python and TensorFlow
 - **Cloud Infrastructure** deployment on AWS, Azure and Google Cloud
 
@@ -51,10 +51,10 @@ I'm a passionate Full-Stack Developer and Software Engineer with expertise in mo
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,fastapi,flask,dotnet,django,spring" />
 </p>
 
-### **Mobile Development**
+<!-- ### **Mobile Development**
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,react,kotlin,swift" />
-</p>
+</p> -->
 
 ### **Database & Storage**
 <p align="center">
