@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mohamed Elewashy
+# Mohamed Al-Aweshi
 ### Full-Stack Developer & Software Engineer
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/elewashy)
