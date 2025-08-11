@@ -163,5 +163,5 @@ If you find my projects helpful, consider supporting me:
 ---
 
 <div align="center">
-<sub>Built with ❤️ by Mohamed Elewashy</sub>
+<sub>Built with ❤️ by Mohamed Al-Aweshi</sub>
 </div>
