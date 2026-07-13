@@ -2,7 +2,7 @@
 
 # Mohamed Al-Aweshi
 
-### Software Engineer · Full-Stack Developer · AI Engineer · Data Engineer
+### Software Engineer · Full-Stack Developer · AI Engineer · Data Engineer · DevOps
 
 I build reliable, data-informed products from idea to production.
 
