@@ -2,7 +2,7 @@
 
 # Mohamed Al-Aweshi
 
-### Full-Stack Developer · AI Engineer · Data Engineer · DevOps
+### Software Engineer · Full-Stack Developer · AI Engineer · Data Engineer · DevOps
 
 I build reliable, data-informed products from idea to production.
 
@@ -13,7 +13,7 @@ I build reliable, data-informed products from idea to production.
 
 ## About me
 
-I’m a Full-Stack Developer, AI Engineer specializing in Agentic AI, and Data Engineer with hands-on DevOps experience. I design maintainable applications and data platforms, build polished user experiences, develop intelligent systems, and automate the path from development to deployment.
+I’m a Software Engineer and Full-Stack Developer specializing in Agentic AI and Data Engineering, with hands-on DevOps experience. I design maintainable applications and data platforms, build polished user experiences, develop intelligent systems, and automate the path from development to deployment.
 
 - Building full-stack applications and maintainable APIs
 - Designing agentic AI systems, retrieval workflows, and data products
