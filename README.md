@@ -2,7 +2,7 @@
 
 # Mohamed Al-Aweshi
 
-### Software Engineer · Full-Stack Developer · AI Engineer · Data Engineer · DevOps
+### Software Engineer · Full-Stack Developer · AI Engineer · Data Engineer
 
 I build reliable, data-informed products from idea to production.
 
@@ -13,9 +13,10 @@ I build reliable, data-informed products from idea to production.
 
 ## About me
 
-I’m a Software Engineer and Full-Stack Developer specializing in Agentic AI and Data Engineering, with hands-on DevOps experience. I design maintainable applications and data platforms, build polished user experiences, develop intelligent systems, and automate the path from development to deployment.
+I’m a Software Engineer, Full-Stack Developer, AI Engineer, Data Engineer, and Web Application Developer with hands-on DevOps experience. I build complete products—from responsive web interfaces and robust backend services to intelligent AI systems, data platforms, and automated cloud deployments.
 
 - Building full-stack applications and maintainable APIs
+- Developing responsive web applications with thoughtful UX, reusable frontend components, and scalable backend services
 - Designing agentic AI systems, retrieval workflows, and data products
 - Building reliable ETL/ELT pipelines for analytics, machine learning, and production systems
 - Deploying and operating cloud-native services with automated CI/CD
@@ -23,11 +24,19 @@ I’m a Software Engineer and Full-Stack Developer specializing in Agentic AI an
 
 ## Technology stack
 
+### Web application development
+
+I build end-to-end web products with modern frontend frameworks, typed APIs, authentication, databases, background jobs, and production-ready deployment workflows.
+
+- **Frontend:** React, Next.js, Vue, Nuxt, TypeScript, HTML, CSS, Sass, Tailwind CSS, Bootstrap, and Three.js
+- **Backend:** Node.js, Express, NestJS, Python, FastAPI, Flask, Django, REST APIs, WebSockets, authentication, and background workers
+- **Engineering practices:** Component-driven development, API design, server-side rendering, responsive interfaces, testing, caching, validation, and performance optimization
+
 ### Languages
 
 <p align="center"><img src="https://skillicons.dev/icons?i=python,javascript,typescript,go,cpp,kotlin" alt="Programming languages" /></p>
 
-### Frontend and backend
+### Frontend and backend technologies
 
 <p align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,html,css,sass,tailwind,bootstrap,threejs,nodejs,express,nestjs,fastapi,flask,django" alt="Frontend and backend technologies" /></p>
 
@@ -62,6 +71,15 @@ These foundations also support my AI work, including document ingestion, embeddi
 ### Cloud, DevOps, and tools
 
 <p align="center"><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,vercel,netlify,git,github,gitlab,vscode,postman" alt="Cloud, DevOps, and development tools" /></p>
+
+## Project focus
+
+My projects bring these areas together in practical, production-oriented solutions:
+
+- **Web applications:** Full-stack platforms, dashboards, portals, and responsive user experiences
+- **Backend systems:** REST APIs, real-time services, authentication, integrations, background jobs, and scalable service architectures
+- **AI products:** RAG applications, agentic workflows, tool-using assistants, and multi-agent systems
+- **Data platforms:** ETL/ELT pipelines, analytics workflows, streaming systems, data services, and AI-ready data foundations
 
 ## GitHub activity
 
